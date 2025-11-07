@@ -42,13 +42,13 @@ A machine learning project focused on predicting customer churn using logistic r
 
 ---
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
 ![Khushbu's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushabuborwal&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushabuborwal&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
----
+--- -->
 
 ## Certifications
 
